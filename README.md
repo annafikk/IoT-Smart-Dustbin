@@ -1,9 +1,16 @@
 IoT Smart Dustbin
 
+Judul:
 SISTEM MONITORING TEMPAT SAMPAH PINTAR SECARA REAL TIME UNTUK MENINGKATKAN OPTIMALISASI KINERJA DARI PENGELOLAAN SAMPAH YANG BERBASIS PADA INTERNET OF THINGS
 
-Proyek ini disetujui oleh: Rizqi Aji Surya Putra, M.Pd.
-Anggota: Muhammad Hanif Annafi, Taufik Dhian Kusuma, Kodrat Nusantara, Muhammad Takwa
+Proyek ini disetujui oleh:
+- Rizqi Aji Surya Putra, M.Pd.
+
+Anggota: 
+- Muhammad Hanif Annafi
+- Taufik Dhian Kusuma
+- Kodrat Nusantara
+- Muhammad Takwa
 
 Perancangan:
 - Software
